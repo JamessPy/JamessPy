@@ -1,8 +1,6 @@
 [![MasterHead](https://www.perforce.com/sites/default/files/styles/social_preview_image/public/image/2020-01/image-blog-future-software-development.png?itok=eO9Fa9k-)
 
-<h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jamesspy&label=Profile%20views&color=0e75b6&style=flat" alt="jamesspy" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jamesspy" alt="jamesspy" /></a> </p>
 

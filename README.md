@@ -1,4 +1,5 @@
-![MasterHead]([https://www.perforce.com/sites/default/files/styles/social_preview_image/public/image/2020-01/image-blog-future-software-development.png?itok=eO9Fa9k-](https://bambooagile.eu/insights/wp-content/uploads/2021/09/1-10.png)
+![MasterHead](https://bambooagile.eu/insights/wp-content/uploads/2021/09/1-10.png)
+
 
 <h1 align="center">Hi 👋, I'm Mehmet</h1>
 <h3 align="center">I graduated from computer engineering. I worked on java and flutter during my student years. I am currently actively developing in Java, but I have been developing projects in React for a short time. I'm looking forward to returning to Java.</h3>

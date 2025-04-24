@@ -1,8 +1,7 @@
 ![MasterHead](https://bambooagile.eu/insights/wp-content/uploads/2021/09/1-10.png)
 
 
-<h1 align="center">Hi 👋, I'm Mehmet</h1>
-<h3 align="center">I graduated from computer engineering. I worked on java and flutter during my student years. I am currently actively developing in Java, but I have been developing projects in React for a short time. I'm looking forward to returning to Java.</h3>
+<h3 align="center">Computer Engineering graduate with a keen interest in software security and scalable backend systems. I’ve worked on various projects using different stacks, and I’m continuously exploring new technologies to strengthen my development skills.</h3>
 <br>
 
 - 📫 How to reach me **m.meto1578@gmail.com**
